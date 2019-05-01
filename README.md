@@ -3,27 +3,27 @@ Lenders provide loans to borrowers in exchange for the promise of repayment with
 
 
 Model Accuracies:
-SVM Classifier           -- 83.51
-Logistic Regression      -- 83.46
-Decision Tree            -- 74.32
-KNeighbors Classifier    -- 82.50
-Random Forest Classifier -- 77.40
+SVM Classifier           -- 83.51<br/>
+Logistic Regression      -- 83.46<br/>
+Decision Tree            -- 74.32<br/>
+KNeighbors Classifier    -- 82.50<br/>
+Random Forest Classifier -- 77.40<br/>
 
-Apply one hot encoding
-BSVM Classifier          -- 83.51
-Logistic Regression      -- 83.40
-Decision Tree            -- 74.06
-KNeighbors Classifier    -- 81.94
-Random Forest Classifier -- 83.14
+Apply one hot encoding<br/>
+BSVM Classifier          -- 83.51<br/>
+Logistic Regression      -- 83.40<br/>
+Decision Tree            -- 74.06<br/>
+KNeighbors Classifier    -- 81.94<br/>
+Random Forest Classifier -- 83.14<br/>
 
 SVM classifier has the highest accuracy, so I applied Grid Search.  ** My machine is not powerful enough to handle grid search calculation thus I am still waiting for the result.
 
 SVM Classifier with grid search         -- WIP
 
-Technologies:
-Programming Language: Python
-Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn
-Visualization: plotly
+Technologies:<br/>
+Programming Language: Python<br/>
+Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn<br/>
+Visualization: plotly<br/>
 
 Data Source:
 https://www.kaggle.com/braindeadcoder/lending-club-data
